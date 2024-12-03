@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container-fluid {
+    background-color: black;
+}
+
+a{
+    color: white;
+}
+
+.indice{
+    text-align: center;
+    font-family: letramenu;;
+   
+}
+
+.svg{
+    text-align: end;
+    
+}
+
+@font-face {
+    font-family: letramenu;
+    src: url(/ESTILO/Edu_AU_VIC_WA_NT_Arrows/EduAUVICWANTArrows-VariableFont_wght.ttf);
+}
