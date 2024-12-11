@@ -12,7 +12,7 @@ a{
 }
 .indice{
     text-align: center;
-
+    align-content: center;
 }
 .indice a{
     font-family: letramenu;
@@ -111,4 +111,8 @@ a{
     font-size: 20px;
     font-weight: 1000;
     color: red;
+}
+.img {
+    width: 200px;
+    height: 125px;
 }
